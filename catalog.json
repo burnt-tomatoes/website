@@ -5,8 +5,8 @@
   "service_level": 1,
   "meta": {
     "github_url": "https://github.com/service-catalog-testing/website",
-    "slack_channel": "#website-team"
-    "datadog_url": "https://app.datadog.com/some-website"
+    "slack_channel": "#website-team",
+    "datadog_url": "https://app.datadog.com/some-website",
     "pager_duty_url": "https://pagerduty.com/some-other-page-duty"
   },
   "dependencies": [
