@@ -10,7 +10,7 @@
   "metrics": {
     "datadog_url": "https://app.datadog.com/some-website"
   },
-  "oncall": {
+  "support": {
     "pager_duty_url": "https://pagerduty.com/some-other-page-duty"
   },
   "dependencies": [
