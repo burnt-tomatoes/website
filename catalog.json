@@ -12,7 +12,7 @@
   },
   "oncall": {
     "pager_duty_url": "https://pagerduty.com/some-other-page-duty"
-  }
+  },
   "dependencies": [
     "databases"
   ]
