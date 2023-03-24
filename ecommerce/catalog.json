@@ -1,0 +1,16 @@
+{
+  "name": "Ecommerce team",
+  "description": "The bit where people buy tomatoes",
+  "type": "Application",
+  "level": 1,
+  "meta": {
+    "github_url": "https://github.com/service-catalog-testing/website",
+    "slack_channel": "#ecommerce-team",
+    "datadog_url": "https://app.datadog.com/some-website-ecommerce",
+    "pager_duty_url": "https://pagerduty.com/some-other-page-duty-ecommerce"
+  },
+  "dependencies": [
+    "databases",
+    "website"
+  ]
+}
