@@ -11,5 +11,8 @@
   },
   "dependencies": [
     "databases"
+  ],
+  "files": [
+    "ecommerce/catalog.json"
   ]
 }
