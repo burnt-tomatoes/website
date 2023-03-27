@@ -2,7 +2,7 @@
   "name": "Website",
   "description": "The website where people learn about and buy Burnt Tomatoes.",
   "type": "Multiple",
-  "level": 1,
+  "priority": 1,
   "meta": {
     "github_url": "https://github.com/service-catalog-testing/website",
     "slack_channel": "#website-team",
