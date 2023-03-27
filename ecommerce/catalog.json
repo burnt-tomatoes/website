@@ -2,7 +2,7 @@
   "name": "Ecommerce team",
   "description": "The bit where people buy tomatoes",
   "type": "Application",
-  "level": 1,
+  "priority": 1,
   "meta": {
     "github_url": "https://github.com/service-catalog-testing/website",
     "slack_channel": "#ecommerce-team",
