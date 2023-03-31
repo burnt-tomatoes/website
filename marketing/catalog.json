@@ -5,7 +5,7 @@
   "priority": 3,
   "meta": {
     "github_url": "https://github.com/burnt-tomatoes/website",
-    "slack_channel": "#marketing-team",
+    "slack_channel": "#marketing-team"
   },
   "dependencies": [
     "website"
