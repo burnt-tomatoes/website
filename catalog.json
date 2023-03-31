@@ -13,6 +13,7 @@
     "databases"
   ],
   "files": [
-    "ecommerce/catalog.json"
+    "ecommerce/catalog.json",
+    "marketing/catalog.json"
   ]
 }
