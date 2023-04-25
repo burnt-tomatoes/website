@@ -1,0 +1,10 @@
+{
+  "name": "Legacy Website",
+  "description": "The old web 1.0 version of the website. This is no longer active but can be seen at https://legacy.burnt.tomatoes.",
+  "type": "Multiple",
+  "priority": 1,
+  "meta": {
+    "slack_channel": "#website-team",
+  },
+  "active": false
+}
