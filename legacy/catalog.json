@@ -4,7 +4,7 @@
   "type": "Multiple",
   "priority": 1,
   "meta": {
-    "slack_channel": "#website-team",
+    "slack_channel": "#website-team"
   },
   "active": false
 }
