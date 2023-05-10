@@ -1,0 +1,18 @@
+name: Example deploys
+
+on:
+  schedule: 
+    - cron: 42 */1 * * * 
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: altinukshini/deployment-action@releases/v1
+        name: Create GitHub deployment
+        with:
+          token: "${{ github.token }}"
+          target_url: https://example.com
+          initial_status: "success"
+          environment: production
