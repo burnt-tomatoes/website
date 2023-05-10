@@ -9,6 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - uses: altinukshini/deployment-action@releases/v1
         name: Create GitHub deployment
         with:
