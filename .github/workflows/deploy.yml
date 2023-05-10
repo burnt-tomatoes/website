@@ -13,6 +13,6 @@ jobs:
         name: Create GitHub deployment
         with:
           token: "${{ github.token }}"
-          target_url: https://example.com
-          initial_status: "success"
+          environment-url: https://example.com
+          initial-status: "success"
           environment: production
