@@ -16,5 +16,6 @@
     "ecommerce/catalog.json",
     "marketing/catalog.json",
     "legacy/catalog.json"
-  ]
+  ],
+  "events": ["deployments"]
 }
