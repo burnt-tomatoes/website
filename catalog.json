@@ -10,7 +10,8 @@
     "pager_duty_url": "https://pagerduty.com/some-other-page-duty"
   },
   "dependencies": [
-    "databases"
+    "databases",
+    "recommentation-engine"
   ],
   "files": [
     "ecommerce/catalog.json",
