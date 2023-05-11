@@ -11,7 +11,7 @@
   },
   "dependencies": [
     "databases",
-    "recommentation-engine"
+    "recommendation-engine"
   ],
   "files": [
     "ecommerce/catalog.json",
